@@ -2,6 +2,9 @@
 
 A serverless AWS Lambda-based application for processing videos and performing face recognition using deep learning models.
 
+<img width="756" height="503" alt="image" src="https://github.com/user-attachments/assets/846f812e-eca7-436a-9ba3-549c805183fe" />
+
+
 ## Overview
 
 This project implements a two-stage pipeline that:
